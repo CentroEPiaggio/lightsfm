@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>lightsfm</name>
+  <version>1.0.0</version>
+  <description>The lightsfm package</description>
+
+  <maintainer email="noeperez@upo.es">Noé Pérez-Higueras</maintainer>
+
+  <license>BSD</license>
+
+  <url type="repository">https://github.com/ddebenedittis/lightsfm</url>
+
+  <author>Noé Pérez</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
